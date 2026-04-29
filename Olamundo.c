@@ -1,6 +1,10 @@
-#include <stdio.h> (){
+#include <stdio.h>
 
-ma
+int main (){
+
+  printf ("clara, te amo\n");
+  return 0
+
 
 
 
